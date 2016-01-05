@@ -1,0 +1,25 @@
+*{
+  font-family: sans-serif, fantasy;
+  background-color: tan;
+}
+
+li{
+  display: inline;
+  color: teal;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+p  {
+  text-align: center;
+  border-radius: 5%;
+}
+
+.myimage {
+  align: center;
+  margin-left: 33%;
+  margin-right: 67%;
+}
